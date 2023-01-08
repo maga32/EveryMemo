@@ -1,4 +1,4 @@
-package com.project.everymemo;
+package com.project.everymemo.controller;
 
 import java.text.DateFormat;
 import java.util.Date;

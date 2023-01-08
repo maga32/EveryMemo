@@ -1,0 +1,8 @@
+package com.project.everymemo.controller.memo;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class MemoController {
+	
+}
